@@ -1,0 +1,23 @@
+{
+  "name": "demo_nodejs_mysql",
+  "version": "1.0.0",
+  "description": "Demo connect MySQL nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungvumanh95/DemoNodeJS_MySQL.git"
+  },
+  "author": "TungVM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungvumanh95/DemoNodeJS_MySQL/issues"
+  },
+  "homepage": "https://github.com/tungvumanh95/DemoNodeJS_MySQL#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "mysql": "2.11.1"
+  }
+}
